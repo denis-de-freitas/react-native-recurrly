@@ -194,3 +194,9 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsm.dev/nativesub-jsm" target="_blank">
   <img src="assets/readme/readme-jsmpro.webp" alt="Project Banner">
 </a>
+
+
+**Other resources**
+<a href="https://jsmastery.com/video-kit/906b6d70-b862-4257-85dd-56b3ba76db59" target="_blank">
+  External Materials 
+</a>
