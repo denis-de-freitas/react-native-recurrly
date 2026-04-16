@@ -197,6 +197,6 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 
 **Other resources**
-<a href="https://jsmastery.com/video-kit/906b6d70-b862-4257-85dd-56b3ba76db59" target="_blank">
-  External Materials 
-</a>
+
+- [External Materials](https://jsmastery.com/video-kit/906b6d70-b862-4257-85dd-56b3ba76db59)
+- [Figma File](https://www.figma.com/design/m3jtoedc0WWAoG6kiJZtxz/Subscription-Management-App?node-id=188001-64&t=WFCadZ8hQm3ODWTF-0)
